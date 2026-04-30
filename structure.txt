@@ -1,0 +1,9 @@
+fullstack-intro/
+│
+├── frontend/
+│   └── (React files)
+│
+├── backend/
+│   └── (Server files)
+│
+└── README.md
